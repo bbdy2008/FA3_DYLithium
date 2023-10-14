@@ -3,7 +3,9 @@ body {
 }
 
 h1 {
-            color: navy;
-            text-align: center;
+            height: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
 }
 
