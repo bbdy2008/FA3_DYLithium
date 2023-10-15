@@ -1,10 +1,10 @@
 body {
-            /* Chosen image, and its specific size */ 
+            /* Chosen Image, and its Specific Size */ 
             background-image: url("satoru gojo.jpeg");
             height: 100%;
             weight: 100%;
             
-            /* Location and Repetition of image */ 
+            /* Location and Repetition of Image */ 
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
@@ -12,12 +12,12 @@ body {
 }
 
 h1 {
-            /* Specifics of Text in Header 1 */ 
+            /* Specifics of Text in Heading 1 */ 
             background-color: #9a81c4;
             font-family: "Verdana";
             text-align: center;
 
-            /* Size and Border of Text in Header 1 */ 
+            /* Spacing and Border Details of Text's Box Outline in Heading 1 */ 
             margin: auto;
             border: 2px dotted blue;
             padding: 10px 15px 10px 15px;
@@ -26,9 +26,12 @@ h1 {
 }
 
 p {
+            /* Specifics of Text in the Paragraph (excluding span) */ 
             text-align: justify;
             background-color: hsl(262, 45%, 74%);
             font-style: italic;
+
+            /* Spacing and Border Details of Text's Box Outline in Paragraph (excluding span) */ 
             margin: auto;
             padding: 25px;
             border-top: 3px dotted black;
@@ -39,9 +42,12 @@ p {
 }
 
 span {
+            /* Specifics of Text under Span element */
             color: rgb(252, 163, 73);
             font-weight: bold;
-            font-style: italic; 
+            font-style: italic;
+
+            /* Margin of Text under Span Element */
             margin-left: 2px
             margin-right: 5px
             
