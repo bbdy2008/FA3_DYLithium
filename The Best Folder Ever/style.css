@@ -7,6 +7,7 @@ body {
             /* Location and Repetition of image */ 
             background-position: center;
             background-repeat: no-repeat;
+            background-size: cover;
 }
 
 h1 {
@@ -16,6 +17,7 @@ h1 {
             text-align: center;
 
             /* Size and Border of Text in Header 1 */ 
+            margin: auto;
             border: 2px dotted blue;
             padding-top: 10px;
             padding-right: 15px;
