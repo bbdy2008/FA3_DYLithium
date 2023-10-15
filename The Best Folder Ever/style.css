@@ -26,11 +26,12 @@ h1 {
 
 p {
             text-align: justify;
-            background-color: "hsl(262, 45%, 74%)";
+            background-color: hsl(262, 45%, 74%);
             font-style: italic;
+            margin: auto;
             padding: 25px;
             border-top: 3px dotted black;
-            border-right: 3px dotted black;
+            border-right: 3px double black;
             border-bottom: 3px dashed black;
             border-left: 3px outset black;
             width: 444px;
