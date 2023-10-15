@@ -1,12 +1,28 @@
 body {
+
             background-image: url("satoru gojo.jpeg");
             height: 100%;
+            weight: 100%;
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
 }
 
 h1 {
+            background-color: #9ef0ff;
+            font-family: "Verdana";
+            text-align: center;
+            border: 2px dotted blue;
+            
+            padding-top: 10px;
+            padding-right: 15px;
+            padding-bottom: 110px;
+            padding-left: 15px;
+
+
+}
+            
             
 }
+
 
