@@ -19,16 +19,21 @@ h1 {
             /* Size and Border of Text in Header 1 */ 
             margin: auto;
             border: 2px dotted blue;
-            padding-top: 10px;
-            padding-bottom: 10px;
-            padding-right: 15px;
-            padding-left: 15px;
+            padding: 10px 15px 10px 15px;
             width: 218px;
             margin-bottom: 20px;
-
-
 }
-            
+
+p {
+            text-align: justify;
+            background-color: "hsl(262, 45%, 74%)";
+            font-style: italic;
+            padding: 25px;
+            border-top: 3px dotted black;
+            border-right: 3px dotted black;
+            border-bottom: 3px dashed black;
+            border-left: 3px outset black;
+            width: 444px;
             
 }
 
