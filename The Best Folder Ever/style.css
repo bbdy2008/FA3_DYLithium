@@ -13,9 +13,9 @@ body {
 
 h1 {
             /* Specifics of Text in Heading 1 */ 
+            text-align: center;
             background-color: #9a81c4;
             font-family: "Verdana";
-            text-align: center;
 
             /* Spacing and Border Details of Text's Box Outline in Heading 1 */ 
             margin: auto;
@@ -27,14 +27,14 @@ h1 {
 
 p {
             /* Specifics of Text in the Paragraph (excluding span) */ 
-            background-color: hsl(262, 45%, 74%);
-            font-family: "Monaco";
-            font-style: italic;
             text-align: justify;
+            background-color: hsl(262, 45%, 74%);
+            font-style: italic;
+            font-family: "Monaco";
 
             /* Spacing and Border Details of Text's Box Outline in Paragraph (excluding span) */ 
             margin: auto;
-            padding: 25px;
+            padding: 20px;
             border-top: 3px dotted black;
             border-right: 3px double black;
             border-bottom: 3px dashed black;
@@ -44,9 +44,9 @@ p {
 
 span {
             /* Specifics of Text under Span element */
-            color: rgb(252, 163, 73);
             font-weight: bold;
             font-style: italic;
+            color: rgb(252, 163, 73);
             font-family: "Georgia";
 
             /* Margin of Text under Span Element */
